@@ -21,12 +21,12 @@
 
 ---
 Стэк:  
-- Python (Base (Pandas, Numpy, SciPy, Math, tqdm)  
+- Python (Pandas, Numpy, SciPy, Math, tqdm)  
 - ML (Scikit-Learn, LightGBM, XGBoost, Catboost)  
 - DL (TensorFlow, Keras, albumentations)  
 - NLP (pymorphy2, NLTK)  
 - Visualization (Matplotlib, Seaborn, Plotly)  
-- Parsing(bs4)  
+- Parsing (bs4)  
 - PROD (FastAPI, Flask)  
 - DE (Docker, SQL, MLflow)  
 - Linux, Git, pickle, os, shutil, zipfile
