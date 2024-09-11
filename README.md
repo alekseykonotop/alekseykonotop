@@ -10,27 +10,28 @@
 - [Предсказание рейтинга ресторана](https://github.com/alekseykonotop/ds_projects_by_sf/tree/main/sf_unit_3) в в TripAdvisor
 - [Прогнозирование вероятности дефолта заемщика](https://github.com/alekseykonotop/ds_projects_by_sf/tree/main/sf_unit_4) - соревнование на Kaggle от SkillFactory
 - [Прогнозирование стоимости автомобиля по характеристикам](https://github.com/alekseykonotop/ds_projects_by_sf/tree/main/sf_unit_6) - соревнование на Kaggle от SkillFactory
-- [Проект классификации автомобилей по фото](https://github.com/alekseykonotop/ds_projects_by_sf/tree/main/sf_unit_8) - соревнование на Kaggle от SkillFactory
+- [Классификация автомобилей по фото](https://github.com/alekseykonotop/ds_projects_by_sf/tree/main/sf_unit_8) - соревнование на Kaggle от SkillFactory
 - [Прогнозирование стоимости автомобиля, ансамбль из градиентного бустинга и нейронных сетей](https://github.com/alekseykonotop/ds_projects_by_sf/tree/main/sf_unit_9) - соревнование на Kaggle от SkillFactory
 
 ---
 Сейчас я в поиске первой работы в качестве junior data scientist и открыт к предложениям. Готов пообщаться и рассмотреть варианты сотрудничества.  
 ↪️✌️ Мое [резюме](https://hh.ru/resume/e0e5df20ff0833baf60039ed1f7357456d6b37)  
 📩 Проще всего связаться со мной через [Telegram](https://t.me/alekseykonotop) - звоните, пишите, не стесняйтесь.  
-📫 На e-mail тоже отвечу с удовольствием: alekseykonotop@gmail.com  
+📫 На e-mail так же отвечаю с удовольствием: alekseykonotop@gmail.com  
 
 ---
 Стэк:  
-- Python (Pandas, Numpy, SciPy, Math, tqdm)  
-- ML (Scikit-Learn, LightGBM, XGBoost, Catboost)  
-- DL (TensorFlow, Keras, albumentations)  
-- NLP (pymorphy2, NLTK)  
-- Visualization (Matplotlib, Seaborn, Plotly)  
-- Parsing (bs4)  
-- PROD (FastAPI, Flask)  
-- DE (Docker, SQL, MLflow)  
-- Linux, Git, pickle, os, shutil, zipfile
-- IDE (VS Code, Jupyter Notebook, PyCharm)   
+- Python (Base, Pandas, Numpy, SciPy, Math, tqdm) 
+– ML (Scikit-Learn, LightGBM, XGBoost, Catboost) 
+– RECSYS (Surprise) 
+– DL (TensorFlow, Keras) 
+– NLP (pymorphy2, NLTK) 
+– Visualization (Matplotlib, Seaborn, Plotly) 
+– Parsing (BeautifulSoup, Selenium) 
+– PROD (Streamlit, Flask) 
+– DE (Docker, SQL, Bash, Comet.ML)
+– Other (pulp, cvxpy, pickle, os, shutil, zipfile), Linux, Git
+- IDE: VS Code, Jupyter Notebook  
 
 ---
 
