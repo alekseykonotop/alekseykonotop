@@ -22,15 +22,15 @@
 ---
 Стэк:  
 - Python (Base, Pandas, Numpy, SciPy, Math, tqdm) 
-– ML (Scikit-Learn, LightGBM, XGBoost, Catboost) 
-– RECSYS (Surprise) 
-– DL (TensorFlow, Keras) 
-– NLP (pymorphy2, NLTK) 
-– Visualization (Matplotlib, Seaborn, Plotly) 
-– Parsing (BeautifulSoup, Selenium) 
-– PROD (Streamlit, Flask) 
-– DE (Docker, SQL, Bash, Comet.ML)
-– Other (pulp, cvxpy, pickle, os, shutil, zipfile), Linux, Git
+- ML (Scikit-Learn, LightGBM, XGBoost, Catboost) 
+- RECSYS (Surprise) 
+- DL (TensorFlow, Keras) 
+- NLP (pymorphy2, NLTK) 
+- Visualization (Matplotlib, Seaborn, Plotly) 
+- Parsing (BeautifulSoup, Selenium) 
+- PROD (Streamlit, Flask) 
+- DE (Docker, SQL, Bash, Comet.ML)
+- Other (pulp, cvxpy, pickle, os, shutil, zipfile), Linux, Git
 - IDE: VS Code, Jupyter Notebook  
 
 ---
